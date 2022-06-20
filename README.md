@@ -18,7 +18,6 @@ To write a program to implement the simple linear regression model for predictin
 
 ## Program:
 ```
-/*
 Program to implement the simple linear regression model for predicting the marks scored.
 Developed by: jayathraa v
 RegisterNumber:  212219220018
@@ -49,7 +48,6 @@ plt.title("hours Vs scores(train)")
 plt.xlabel("hours")
 plt.ylabel("scores")
 plt.show()
-*/
 ```
 
 ## Output:
